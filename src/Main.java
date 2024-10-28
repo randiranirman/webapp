@@ -13,7 +13,7 @@ abstract class Main extends User {
             switch (choice) {
                 case 1:
                     new User();
-
+                    System.out.println("here  is the second change");
                     break;
 
                 case 2:
